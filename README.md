@@ -1,5 +1,4 @@
-# Udemy-Course-Project
-Udemy Course Projects of Web development
+# Udemy Course Projects of Web development
 **1. Udemy Web Development Bootcamp Project: Dice Game | HTML, CSS, JS**
 
   *Developed an interactive dice game, allowing two players to roll dice and display the winner based on random dice rolls.*
