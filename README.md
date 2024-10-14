@@ -21,4 +21,3 @@
 - Ensured the game follows the correct flow with randomized color sequences via nextSequence(), user sequence validation, and level progression with corresponding updates to the UI.
 - Utilized jQuery for event handling, manipulating DOM elements (e.g., adding/removing CSS classes like "game-over"), and enhancing interactivity through animations (e.g., button flash on click).
 - Applied error handling by resetting the game when the user provides an incorrect sequence and allowing them to restart by pressing any key.
-- Project repository: [GitHub Link](https://github.com/zkManuel0123/Udemy-Course-Project)
