@@ -4,7 +4,7 @@
   *Developed an interactive dice game, allowing two players to roll dice and display the winner based on random dice rolls.*
 - Implemented JS to generate random numbers, update DOM elements using querySelector() and setAttribute(), and dynamically display the result using If statements.
 
-**Bootcamp Project 2: Drum Kit Game | HTML, CSS, JS**
+**Project 2: Drum Kit Game | HTML, CSS, JS**
 
   *Developed an interactive web-based "Drum Kit" game using JavaScript.*
 - Implemented event listeners to detect both button clicks and keyboard presses, triggering corresponding drum sounds.
@@ -12,7 +12,7 @@
 - Created a visual feedback mechanism using CSS class toggling, providing an animation effect when a button is pressed.
 - Applied DOM manipulation to link user inputs with specific sounds, enhancing the user experience through intuitive controls.
   
-**Bootcamp Project 3: Simon Game | HTML, CSS, JS and jQuery**
+**Project 3: Simon Game | HTML, CSS, JS and jQuery**
 
   *Developed a browser-based implementation of the classic Simon game*
 - Programmed the game's logic to dynamically generate color sequences, track user interactions, and verify input correctness using JavaScript functions such as checkAnswer().
